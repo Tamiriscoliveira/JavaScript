@@ -1,3 +1,5 @@
+// métodos são propriedades que funcionam como  funções. Strings e array contém métodos.
+
 let marca = "nike";
 
 console.log(typeof marca.toUpperCase());
